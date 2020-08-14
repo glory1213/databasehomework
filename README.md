@@ -8,7 +8,11 @@
   Be careful you have installed python,and install pymssql by
   
   pip install pymssql
+  
+  
   run by
+  
+  
   py main.py
 
 # License
