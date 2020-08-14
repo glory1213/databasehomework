@@ -1,13 +1,22 @@
-# databasehomework
-由阳光帅气的男孩组合写的数据库课程设计
+# Introduction
+  This is a database homework.
+  Done by some handsome guys.They love computer science.Also they work hard during the pandemic of COVID-19
+  So this repository is the most telling witness of their hard-working and their friendship.
+  Our member:Jackson Liu,Fan Wentian,Chang Zhongming,Yuan Biao,Wang Shijie,Ma Sai,Zhao jia,Shu Wenxuan.
 
-Our group's database homework which every members are handsome
+# How to use
+  Be careful you have installed python,and install pymssql by
+  
+  pip install pymssql
+  run by
+  py main.py
 
-Un projet réalisé par de beaux garçons
+#License
+ MIT license
+ 
 
-Un proyecto realizado por unos chicos guapos.
 
-# 截图 | Screenshot | Capture d'écran | Captura de pantalla
+
 
 
 
